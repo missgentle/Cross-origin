@@ -1,0 +1,19 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "lib": [
+            "dom",
+            "es2015",
+            "es2016"
+    ],
+    "outDir": "./dist/",
+    "noImplicitAny": false,
+    "module": "es2015",
+    "moduleResolution": "node",
+    "sourceMap": true,
+    "target": "es5",
+    "jsx": "react",
+    "allowJs": true
+  }
+}
