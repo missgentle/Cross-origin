@@ -1,0 +1,96 @@
+* {
+  		margin: 0;
+  		padding: 0;
+  		font-family: "微软雅黑";
+  	}
+
+	.viewport {
+    	position: relative;
+    	min-width: 320px;
+    	max-width: 640px;
+    	margin: 0 auto;
+	}
+
+  .backgroud{
+    background-image: url(../img/icon.jpg);
+  }
+
+
+  	p {
+  		padding: 8px;
+  	}
+
+  	.fl {
+  		float: left;
+  	}
+
+  	.dis-inb {
+  		display: inline-block;
+  	}
+
+  	.gap {
+  		padding: 0 10px;
+  	}
+
+  	.search-box {
+  		height: 30px;
+  		border: 2px solid #3ab3ff;
+  		border-radius: 15px;
+  		margin-top: 15px; 
+  		width: 90%;
+  		padding-left: 28px;
+  		margin: 15px 10px 0 10px;
+  		color: #3ab3ff;
+  	}
+
+  	.searchicon-loc {
+  		position: relative;
+  		top:-28px;
+  		margin-left:20px;
+  		color:#3ab3ff;
+  	}
+
+  	.tab-box {
+  		height: 40px;
+  		font-size: 14px;
+  		margin-top: 10px;
+  	}
+
+  	.tab-box ul {
+  		text-align: center;
+  	}
+
+  	.tab-box ul li {
+  		display: inline-block;
+  		width: 30%;
+  	}
+
+  	.tab-box ul li a {
+  		padding: 6px 0;
+  		display: inline-block;
+  	}
+
+  	.content-box {
+  		font-size: 12px;
+  	}
+
+  	.list-item {
+  		border: 1px solid #eee;
+  		height:60px;
+  		display: block;
+  		margin: 10px 0;
+  		padding: 6px;
+  	}
+
+  	.pic-box {
+  		width: 60px;
+  		height: 60px;
+  		display: inline-block;
+  		background-color: #ececec;
+  	}
+
+  	.choosen {
+  		color:#3ab3ff;
+  		border-bottom: 2px solid #3ab3ff; 
+  	}
+  	
