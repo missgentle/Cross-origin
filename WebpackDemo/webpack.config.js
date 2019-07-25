@@ -26,7 +26,7 @@ module.exports = {
     contentBase: './dist',
     disableHostCheck: true,
     host: '0.0.0.0',
-    port: '8082'      // WebpackDemo启'8084'端口
+    port: '8082'      // WebpackDemo2 启'8084'端口
   },
   plugins: [
   	new HtmlWebpackPlugin({ 
