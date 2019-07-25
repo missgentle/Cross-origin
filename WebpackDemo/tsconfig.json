@@ -1,0 +1,19 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "target": "es6",
+        "module": "commonjs",
+        "emitDecoratorMetadata": true,
+        // "allowSyntheticDefaultImports": true,
+        "experimentalDecorators": true,
+        "outDir": "./dist/",
+        "allowJs": true,
+        "lib": [
+            "dom",
+            "es5"
+        ]
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
