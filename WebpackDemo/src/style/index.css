@@ -1,0 +1,22 @@
+  * {
+  		margin: 0;
+  		padding: 0;
+      color: #008080;
+  		font-family: "微软雅黑";
+  	}
+
+  body
+  {
+    margin:0 auto;
+    text-align:center;
+    overflow-x:hidden;
+    position:relative;
+    background-color:#F6F8FA;
+  }
+
+  .viewport {
+      position: relative;
+      min-width: 320px;
+      max-width: 640px;
+      margin: 0 auto;
+  }
